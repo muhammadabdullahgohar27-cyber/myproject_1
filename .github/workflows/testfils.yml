@@ -1,0 +1,15 @@
+name: Abdullah
+
+on:
+ push:
+   branches:
+     - main
+     
+
+
+jobs:
+  Demo:
+   runs-on: ubuntu-latest
+   steps:
+     - name: Hello_world
+       run: echo"hi"

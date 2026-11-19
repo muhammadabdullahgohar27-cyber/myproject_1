@@ -1,4 +1,4 @@
-name: Abdullah Safdar
+name: Abdullah
 
 on: 
  push:
@@ -13,7 +13,7 @@ jobs:
    
  steps:
   - name: Run_Hello_World
-    run: echo "Hello Worldd"
+    run: echo "Hello World"
 
     
 

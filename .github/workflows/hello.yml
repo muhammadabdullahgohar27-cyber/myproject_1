@@ -12,8 +12,8 @@ jobs:
    runs-on: ubuntu-latest
    
   setps:
-    - name: Run_Hello_World
-      run:  echo "Hello World"
+    - name: Run_Hello
+      run : echo "Hellow"
 
     
 

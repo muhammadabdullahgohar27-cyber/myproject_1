@@ -9,10 +9,10 @@ on:
 
 jobs:
   say_hello:
-   runs-on : ubuntu-latest
-
+   runs-on: ubuntu-latest
+   
   setps:
-    - name: run_ Hellow_wrold
+    - name: Run_Hello_World
      run:  echo "Hello World"
 
     

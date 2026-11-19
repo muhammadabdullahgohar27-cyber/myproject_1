@@ -1,0 +1,25 @@
+name: Abdullah Safdar
+
+on: 
+ push:
+   branches: 
+   - main
+
+
+
+jobs:
+  say_hello:
+  runs-on : ubuntu-latest
+
+  setps:
+  - name:run_ Hellow_wrold
+    run:echo "Hello World"
+
+    
+
+
+  
+
+
+  
+  

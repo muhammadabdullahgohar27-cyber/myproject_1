@@ -11,9 +11,9 @@ jobs:
   say_hello:
    runs-on: ubuntu-latest
    
-  setps:
-    - name: Run_Hello
-      run : echo "Hellow"
+ steps:
+  - name: Run_Hello_World
+    run: echo "Hello World"
 
     
 
